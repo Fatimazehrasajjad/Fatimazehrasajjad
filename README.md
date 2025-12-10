@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Fatima Zehra Sajjad!
+A passionate Web Development student at Aptech.
+I’ve already learned:
 
-<!--
-**Fatimazehrasajjad/Fatimazehrasajjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HTML
+CSS
+Advanced JavaScript
+MySQL
+And I’m currently learning PHP to move further into backend development.
+With a background in BS Sociology (University of Karachi), I approach technology with creativity, observation and strong analytical thinking.
 
-Here are some ideas to get you started:
+ What I love doing:
+Designing clean & modern user interfaces,Solving problems through code,Learning new technologies,Building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning. Building. Growing. 🚀
+
